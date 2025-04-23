@@ -57,6 +57,6 @@ This project helped me understand the NYC rental landscape and practice advanced
 ---
 
 **Author:** Thuy Nguyen  
-**Term:** Winter 2025  
+**Term:** Spring 2024  
 **Project Type:** Individual school project (DePaul University)  
 **Tools:** Tableau Data Visualization 
