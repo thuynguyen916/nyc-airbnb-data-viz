@@ -56,4 +56,7 @@ This project helped me understand the NYC rental landscape and practice advanced
 
 ---
 
-> **Personal project completed for MGT 586 - Data Visualization (DePaul University).**
+**Author:** Thuy Nguyen  
+**Term:** Winter 2025  
+**Project Type:** Individual school project (DePaul University)  
+**Tools:** Tableau Data Visualization 
